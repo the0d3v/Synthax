@@ -2,6 +2,10 @@
 
 Synthax is a basic click buttons / lua-c exploit 
 
+# Releases
+
+Click here to download the latest release : https://github.com/the0d3v/Synthax/releases
+
 # Lua license
 Lua License
 Lua is free software distributed under the terms of the MIT license reproduced here. Lua may be used for any purpose, including commercial purposes, at absolutely no cost. No paperwork, no royalties, no GNU-like "copyleft" restrictions, either. Just download it and use it.
