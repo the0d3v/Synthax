@@ -2,7 +2,35 @@
 
 Synthax is a basic click buttons / lua-c exploit 
 
-# Releases
+# Screenshots
+CMDS :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/CMDS.png)
+
+Credits 1 :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/CREDITS1.png)
+
+Credits 2 :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/CREDITS2.png)
+
+Injection :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/INJECTION.png)
+
+LUA-C EXE :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/LUA-C.png)
+
+Misc 1 :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/MISC1.png)
+
+Misc 2 :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/MISC2.png)
+
+Misc 3 :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/MISC3.png)
+
+Misc 4 :
+![alt text](https://raw.githubusercontent.com/the0d3v/Synthax/master/Screenshots/MISC4.png)
+
+# Releases / Download
 
 Click here to download the latest release : https://github.com/the0d3v/Synthax/releases
 
